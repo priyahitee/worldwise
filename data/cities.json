@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "01da",
+      "cityName": "Cuenca",
+      "country": "ES",
+      "emoji": "🇪🇸",
+      "date": "2024-03-29T06:56:58.161Z",
+      "notes": "",
+      "position": {
+        "lat": "40.10839427627393",
+        "lng": "-2.0874023437500004"
+      }
+    },
+    {
+      "id": "d840",
+      "cityName": "Castroverde de Campos",
+      "country": "ES",
+      "emoji": "🇪🇸",
+      "date": "2024-03-29T07:16:51.337Z",
+      "notes": "",
+      "position": {
+        "lat": "41.98186280710536",
+        "lng": "-5.361328125"
+      }
+    },
+    {
+      "id": "e278",
+      "cityName": "Thuraiyur",
+      "country": "IN",
+      "emoji": "🇮🇳",
+      "date": "2024-03-29T07:17:09.896Z",
+      "notes": "",
+      "position": {
+        "lat": "11.325116930111115",
+        "lng": "78.59619140625001"
+      }
+    }
+  ]
+}
