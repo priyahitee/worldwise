@@ -8,6 +8,7 @@ Features:
 1. Routing
 2. Authentication using contextAPI
 3. State management using contextAPI
+4. Performed Async Operation
 
 Tech Used:
 1. Javascript
